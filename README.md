@@ -1,6 +1,3 @@
-# curl-test
-This pipeline script will check speed of git repo
----------------------------------------------------------------------------------------
 pipeline {
     agent none
       stages {
